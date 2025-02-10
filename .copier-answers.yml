@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: 2.6.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: guilherme.de-freitas@diamond.ac.uk
+author_name: Guilherme de Freitas
+description: Tool to make mosaics from a folder of images
+distribution_name: mosaicer
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: gfrn
+package_name: mosaicer
+pypi: true
+repo_name: mosaicer
+type_checker: pyright
