@@ -13,7 +13,7 @@ Releases        | <https://github.com/gfrn/mosaicer/releases>
 
 ## Usage (command line)
 
-<img src="https://github.com/gfrn/mosaic-maker/docs/pepper.png" width=300 height=300/>
+<img src="https://github.com/gfrn/mosaic-maker/blob/main/docs/pepper.png" width=300 height=300/>
 
 *Picture of bell pepper formed by protein structures*
 
