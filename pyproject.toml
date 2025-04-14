@@ -15,7 +15,7 @@ description = "Tool to make mosaics from a folder of images"
 dependencies = [
     "scikit-learn~=1.6.1",
     "numpy~=2.2.0",
-    "pillow~=11.1.0"
+    "pillow~=11.2.1"
 ]
 dynamic = ["version"]
 license.file = "LICENSE"
